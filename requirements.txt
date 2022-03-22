@@ -1,0 +1,10 @@
+#### Main Backend############
+fastapi
+Uvicorn 
+pymongo
+dnspython
+###### Crypto Related ############
+passlib
+cryptography
+openpyxl
+python-jose
